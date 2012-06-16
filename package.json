@@ -9,7 +9,7 @@
     "url": "git@github.com:HashGo/connect-mongo.git"
   },
   "dependencies": {
-    "mongodb": "0.9.x"
+    "mongodb": "*"
   },
   "devDependencies": {
     "mocha": "1.x",
