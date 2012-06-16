@@ -6,7 +6,7 @@
   "author": "Casey Banner <kcbanner@gmail.com>",
   "repository": { 
     "type": "git", 
-    "url": "https://github.com/HashGo/connect-mongo.git"
+    "url": "http://github.com/kcbanner/connect-mongo.git"
   },
   "dependencies": {
     "mongodb": "0.9.x"
